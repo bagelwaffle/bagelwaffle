@@ -1,2 +1,2 @@
 # 👋 Hi! I’m Bagel Waffle!
-I am mostly are on [Codeberg](https://codeberg.org/bagelwaffle)
+Go to my [Codeberg](https://codeberg.org/bagelwaffle) for my main repos
